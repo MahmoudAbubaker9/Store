@@ -12,3 +12,14 @@ if(phone == 'samsung'){
 
 let result = confirm('i hoepe that you like the store')
 console.log(result)
+
+let result1 = confirm('Did you like the store?')
+console.log(result1)
+
+var result2 = prompt('Can you give us a Rate out of 10')
+console.log(result2)
+
+//the result1 and result2 showen in console
+
+
+>>>>>>> cc6fc5462a64063c3fac90f28bd392a25b6af528
