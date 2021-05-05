@@ -1,0 +1,25 @@
+header {color: rgb(255, 255, 255);}
+header nav ul li {display: inline;}
+header h1 {text-align: center}
+header {background-color: rgb(rgb(107, 107, 107), green, blue)}
+
+main {background-image: url(https://pubnative.net/wp-content/uploads/2019/08/PubNative-Web-Background-Design.png)}
+
+main h2 {text-align: center}
+
+main section img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+header nav ul li {margin-right: 40px ;}
+
+header {background-color: rgba(0, 0, 0, 0.363)}
+footer {background-color: rgb(129, 129, 129)}
+footer {text-align: center}
+
+main div {text-align: center;}
+
+h4 {text-align: center}
+h4 {color: rgb(118, 107, 216)}
