@@ -1,4 +1,4 @@
-header {color: rgb(255, 255, 255);}
+header {color: rgb(253, 0, 0);}
 header nav ul li {display: inline;}
 header h1 {text-align: center}
 header {background-color: rgb(rgb(107, 107, 107), green, blue)}
@@ -16,10 +16,12 @@ main section img {
 header nav ul li {margin-right: 40px ;}
 
 header {background-color: rgba(0, 0, 0, 0.363)}
-footer {background-color: rgb(129, 129, 129)}
-footer {text-align: center}
 
 main div {text-align: center;}
+#footer {background-color: rgb(129, 129, 129);
+text-align: center}
 
-h4 {text-align: center}
-h4 {color: rgb(118, 107, 216)}
+.infomation { text-align: center;
+color: rgb(128, 133, 180)}
+
+* { margin: 0% }

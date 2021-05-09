@@ -35,11 +35,6 @@ for( var y=1 ; y <= counter ; y++ ){
   }
 
 }
-
-<<<<<<< HEAD
 }
 pics()
 let resultm = confirm('i hoepe that you like the store')
-=======
-let resultm = confirm('i hoepe that you like the store')
->>>>>>> 745785fa5369b43682146ae9a4f3402b1df90a0e
